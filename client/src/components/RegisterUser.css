@@ -1,0 +1,14 @@
+.registerForm {
+  width: 85%;
+  margin: 0px auto;
+  }
+.alertMessage{
+  color:crimson!important;
+}
+.imgAvatar{
+  width: 48px;
+  margin: 3px;
+  display: inline-block;
+}
+
+

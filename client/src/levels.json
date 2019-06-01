@@ -1,0 +1,41 @@
+{
+    "boards":[
+        {   "size":"small",
+            "width":10,
+            "height":10,
+            "levels":{
+                "easy":10,
+                "easySecs":50,
+                "medium":15,
+                "mediumSecs":90,
+                "hard":20,
+                "hardSecs":140
+            }
+        },
+        {   "size":"medium",
+            "width":20,
+            "height":15,
+            "levels":{
+                "easy":20,
+                "easySecs":150,
+                "medium":35,
+                "mediumSecs":280,
+                "hard":50,
+                "hardSecs":320
+
+            }
+        },
+        {   "size":"massive",
+            "width":25,
+            "height":20,
+            "levels":{
+                "easy":30,
+                "easySecs":150,
+                "medium":60,
+                "mediumSecs":300,
+                "hard":100,
+                "hardSecs":600
+            }
+        }
+    ]
+}
